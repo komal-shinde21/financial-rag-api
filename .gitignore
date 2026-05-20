@@ -1,0 +1,10 @@
+venv/
+__pycache__/
+*.pyc
+*.pyo
+faiss_db/
+chroma_db/
+uploads/
+financial_rag.db
+.env
+*.db
