@@ -251,14 +251,5 @@ financial_rag/
 - ✅ Local vector storage with FAISS
 - ✅ Interactive API docs at /docs
 
----
 
-## 👨‍💻 Author
 
-Made with ❤️ for AI/ML Assignment
-
----
-
-## 📄 License
-
-MIT License
